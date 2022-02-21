@@ -4,6 +4,11 @@ body {
     color: white;
 }
 
+img {
+    border: 1pt solid #00ff00;
+}
+
+
 p {
     font-size: 24px;
 }
